@@ -1,6 +1,6 @@
 👋 Hello, I'm Olatayo Dipe
 
-🎓 Recently graduated with a Master's in Information Technology from the University of Derby.
+🎓 I'm a passionate and detail-oriented IT professional with a master's degree in Information Technology. My journey in the tech world revolves around leveraging innovative solutions to solve complex problems. This repository serves as a showcase of my diverse skills and project highlights.
 
 💼 Data Analyst with a passion for uncovering insights through SQL, Python, Power BI, and Tableau.
 
